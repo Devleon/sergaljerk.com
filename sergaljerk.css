@@ -39,6 +39,10 @@ table{
 	position:fixed;
 	right:0;
 	}
+
+a{
+	color:white;
+	}
 		
 .bottom /* star citizen */{
 	z-index:3;
