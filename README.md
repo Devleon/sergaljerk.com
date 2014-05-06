@@ -5,4 +5,9 @@ Feel free to use anything from this.
 The images used are all located here ->http://imgur.com/a/24A0d,
 dowload them and place them in the folder.
 
+Please name the name the eve one:eve,
+star citizen one: starcitizen,
+valkyrie on: valkyrie,
+and the sergaljerk logo: logo.
+
 ~Devleon
