@@ -7,7 +7,7 @@ dowload them and place them in the folder.
 
 Please name the name the eve one:eve,
 star citizen one: starcitizen,
-valkyrie on: valkyrie,
+valkyrie one: valkyrie,
 and the sergaljerk logo: logo.
 
 ~Devleon
